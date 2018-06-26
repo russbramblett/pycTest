@@ -1,6 +1,6 @@
 import math
 
 
-x = math.sqrt(15)
+x = math.sqrt(12)
 
 print(x**2)
